@@ -1,4 +1,4 @@
-# pandas_challenge
+# school-data-summary
 Analysis of school and standardized testing data using Pandas DataFrames.
 
 ## Summary
